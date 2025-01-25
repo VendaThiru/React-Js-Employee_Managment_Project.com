@@ -1,0 +1,125 @@
+{
+  "Employee_Data": [
+    {
+      "id": "b728",
+      "employee_id": 1,
+      "employee_name": "Ganhujaki",
+      "employee_contact_number": "8270327939",
+      "employee_contact_email": "vendamottaiyan@gmail.com",
+      "employee_destination": "softwere",
+      "employee_reporting_manager": "Christopher",
+      "employee_joing_data": "27th sept 2025"
+    },
+    {
+      "id": "c7ea",
+      "employee_id": 2,
+      "employee_name": "Bindhu",
+      "employee_contact_number": "8270327939",
+      "employee_contact_email": "vendamottaiyan@gmail.com",
+      "employee_destination": "softwere",
+      "employee_reporting_manager": "Christopher",
+      "employee_joing_data": "27th sept 2025"
+    },
+    {
+      "id": "ebb4",
+      "employee_id": 3,
+      "employee_name": "Mahesh",
+      "employee_contact_number": "8270327939",
+      "employee_contact_email": "vendamottaiyan@gmail.com",
+      "employee_destination": "softwere",
+      "employee_reporting_manager": "Christopher",
+      "employee_joing_data": "27th sept 2025"
+    },
+    {
+      "id": "3611",
+      "employee_id": 4,
+      "employee_name": "Lavu",
+      "employee_contact_number": "8270327939",
+      "employee_contact_email": "vendamottaiyan@gmail.com",
+      "employee_destination": "softwere",
+      "employee_reporting_manager": "Christopher",
+      "employee_joing_data": "27th sept 2025"
+      
+    },
+    {
+      "id": "3611",
+      "employee_id": 5,
+      "employee_name": "Sarojini",
+      "employee_contact_number": "8270327939",
+      "employee_contact_email": "sarojini@gmail.com",
+      "employee_destination": "softwere",
+      "employee_reporting_manager": "Christopher",
+      "employee_joing_data": "27th sept 2025"
+    },
+    {
+      "id": "61fa",
+      "employee_id": 6,
+      "employee_name": "venda",
+      "employee_contact_number": "8270327939",
+      "employee_contact_email": "v@gmail.com",
+      "employee_destination": "Manager",
+      "employee_reporting_manager": "Thiru",
+      "employee_joing_data": "20/05/2020"
+    },
+    {
+      "id": "3611",
+      "employee_id": 7,
+      "employee_name": "ramakiri",
+      "employee_contact_number": "8270327939",
+      "employee_contact_email": "ramakiri@gmail.com",
+      "employee_destination": "softwere",
+      "employee_reporting_manager": "Christopher",
+      "employee_joing_data": "27th sept 2025"
+    },
+    {
+      "id": "ebb4",
+      "employee_id": 8,
+      "employee_name": "delaki",
+      "employee_contact_number": "8270327939",
+      "employee_contact_email": "delaki@gmail.com",
+      "employee_destination": "softwere",
+      "employee_reporting_manager": "Christopher",
+      "employee_joing_data": "27th sept 2025"
+    },
+    {
+      "id": "3611",
+      "employee_id": 9,
+      "employee_name": "Lavanya",
+      "employee_contact_number": "8270327968",
+      "employee_contact_email": "vendamottaiyan@gmail.com",
+      "employee_destination": "softwere",
+      "employee_reporting_manager": "Christopher",
+      "employee_joing_data": "27th sept 2025"
+    },
+    {
+      "id": "3611",
+      "employee_id": 10,
+      "employee_name": "Sarojini",
+      "employee_contact_number": "82703856931",
+      "employee_contact_email": "sarojini@gmail.com",
+      "employee_destination": "softwere",
+      "employee_reporting_manager": "Christopher",
+      "employee_joing_data": "27th sept 2025"
+    },
+    {
+      "id": "61fa",
+      "employee_id": 11,
+      "employee_name": "advika",
+      "employee_contact_number": "82703856932",
+      "employee_contact_email": "advika@gmail.com",
+      "employee_destination": "Manager",
+      "employee_reporting_manager": "Thiru",
+      "employee_joing_data": "20/05/2020"
+    },
+    {
+      "id": "3611",
+      "employee_id": 12,
+      "employee_name": "sadiramakiri",
+      "employee_contact_number": "8270327945",
+      "employee_contact_email": "sadiramakiri@gmail.com",
+      "employee_destination": "softwere",
+      "employee_reporting_manager": "Christopher",
+      "employee_joing_data": "27th sept 2025"
+    }
+  ]
+}
